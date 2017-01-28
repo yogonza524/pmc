@@ -1,0 +1,9 @@
+Util\Pesos.class
+Util\ProcesoAprendizaje.class
+Util\Perceptron.class
+Util\PMC.class
+Util\TipoFuncion.class
+com\pichon\modulopmc\MainApp.class
+com\pichon\modulopmc\FXMLControllerPMC.class
+Util\UtilPMC.class
+Util\Conexion.class
